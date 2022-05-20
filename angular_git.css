@@ -1,9 +1,9 @@
 body {
-  background-color: lightblue;
+  background-color: rgb(8, 183, 242);
 }
 
 h1 {
-  color: white;
+  color: rgb(255, 4, 4);
   text-align: center;
 }
 
@@ -13,6 +13,6 @@ p {
 }
 
 p {
-  color: red;
+  color: rgb(55, 13, 13);
   text-align: center;
 }
